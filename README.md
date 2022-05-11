@@ -9,4 +9,4 @@
 <a href="https://instagram.com/_ali.elcheikh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ali.elcheikh_" height="30" width="40" /></a> <a href="https://www.youtube.com/c/savanadevelopers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="savanadevelopers" height="30" width="40" /></a>
 
 # Current Project
-- **Savana Ma,ager**: I am working on a javascript open source discord bot 
+- **Savana Manager**: I am working on a javascript open source discord bot 
