@@ -1,5 +1,5 @@
-<h1 align="center">Hello, i'am Buu</h1>
-<h2 align="center">I'am a young developer</h2>
+<h1 align="center">Hello, I am Buu</h1>
+<h2 align="center">I am a young developer</h2>
 <h3 align="right">About me</h3>
 <p align="right">I learn every day IT - Code - Project Management,</p>
 <p align="right">I really like to go out a lot and video games,</p>
