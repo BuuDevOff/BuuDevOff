@@ -17,5 +17,5 @@
 <h3 align="center">Contact</h3>
 <div align="center">
   <a href="https://discord.gg/kayofr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="My Discord" height="30" width="40" /></a>
-<a href="https://instagram.com/_ali.elcheikh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ali.elcheikh_" height="30" width="40" /></a> <a href="https://www.youtube.com/@BuuDevOff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="savanadevelopers" height="30" width="40" /></a>
+<a href="https://instagram.com/buudevoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ali.elcheikh_" height="30" width="40" /></a> <a href="https://www.youtube.com/@BuuDevOff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="savanadevelopers" height="30" width="40" /></a>
 </div>
